@@ -1,0 +1,1 @@
+# IoT-trust-mechanism--Cooja
